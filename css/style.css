@@ -1,0 +1,132 @@
+*
+{
+	font-family: 'Slabo 27px', serif;
+}
+.topheader
+{
+	padding-top: 1.5em;
+	padding-bottom: 0.8em;
+}
+.logo
+{
+	width: 20%;
+	min-width: 250px
+}
+hr
+{
+	margin: 0;
+}
+.col-md-2
+{
+	padding: 0
+}
+h5
+{
+	margin: 0;
+	font-size: 1.15em;
+	padding: 10px 0;
+	margin-left: 5%
+}
+.orange
+{
+	margin: 0 10%;
+	color: #fff;
+	background-color: #f5af00;
+}
+@media only screen and (max-width: 991px)
+{
+	h5
+	{
+		margin: 0 25%;
+		text-align: center;
+	}
+	.secondary
+	{
+		padding: 0 10%;
+	}
+	.primary
+	{
+		margin-bottom: 5%;
+	}
+	.mimi
+	{
+		max-width: 400px;
+	}
+}
+.content
+{
+	margin-top: 3em;
+	margin-bottom: 5em;
+}
+@media only screen and (max-width: 550px)
+{
+	h5
+	{
+		margin: 0 15%;
+		text-align: center;
+	}
+	.secondary
+	{
+		padding: 0 10%;
+	}
+	.primary
+	{
+		margin-bottom: 5%;
+	}
+	.content
+	{
+		margin-bottom: 5em;
+	}
+	.mimi
+	{
+		max-width: 400px;
+	}
+}
+h4
+{
+	font-size: 1em;
+}
+a
+{
+	color: #000080;
+	text-decoration: none;
+}
+.primary
+{
+	text-decoration: none;
+	padding: 0 13%;
+	font-size: 1.3em;
+	line-height: 1.4em;
+}
+.secondary
+{
+	font-size: 1.1em;
+	margin-bottom: 2em;
+	line-height: 1.2em;
+}
+#navbot
+{
+	padding: 10px 0;
+}
+#signup
+{
+	padding: 1em 1em;
+	font-size: 1.2em;
+}
+a:hover
+{
+	text-decoration: none;
+	color:#8e8e8e;
+}
+a:visited
+{
+	text-decoration: none;
+}
+.articleimage
+{
+	border: 2px solid #8e8e8e;
+}
+#football
+{
+	width: 80%;
+}

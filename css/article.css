@@ -1,0 +1,26 @@
+.article1image
+{
+	max-width: 80%;
+}
+.article2image
+{
+	width: 100%;
+}
+h2
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+p
+{
+	font-size: 1.2em;
+	line-height: 1.8em;
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 2em;
+}
+.separation
+{
+	padding-top: 2em;
+}
